@@ -1,0 +1,4 @@
+Write a shell program to read a string
+FRUITS="Mango,Apple,Jackfruit,Orange,Grape" 
+from a file named PopularFruits.txt and split it 
+into small parts and display the output on shell.

@@ -1,0 +1,4 @@
+Declare an array as 
+fruits=(apple jackfruit orange mango) 
+and print 
+the elements of it using for/while loop.
